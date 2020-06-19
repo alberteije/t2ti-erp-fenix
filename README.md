@@ -8,7 +8,7 @@
   <i>
   [T2Ti ERP Fenix is a training provided by T2Ti. More details about the training can be seen at the link: http://t2ti.com/erp3/.]
   </i>	
-                    <hr />
+                    <br />              
                     <img src="http://t2ti.com/images/erp/erp3-destaque.jpg" />
                     <br />              
 
@@ -19,6 +19,7 @@
   <i>
   [The first phase of the training is called T2Ti ERP Fenix, where the first 24 ERP modules are built.]
   </i>	
+                    <br />              
                         <img src="http://t2ti.com/images/erp3/fenix_modulos.png" />
 
 <hr />
@@ -28,5 +29,6 @@
   <i>
   [The client is built with Flutter which consumes 5 servers built in the languages: C#, Delphi, Java, Node and PHP.]
   </i>	
+                    <br />              
                          <img src="http://t2ti.com/images/news/erp3-linguagens-flutter.png" />
 </html>
