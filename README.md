@@ -1,11 +1,15 @@
 <html>
 <div class="bloco">
                     <div class="titulo_bloco">
-                        <h1>T2Ti ERP Segurança Base</h1>
+                        <h1>T2Ti ERP Fenix</h1>
                     </div>
-  O T2Ti ERP é um treinamento fornecido pela T2Ti. Você pode ver os vídeos do Módulo Segurança base no seguinte link: https://www.youtube.com/playlist?list=PLMqoOoxxICPcnRyFbFWZrT8c3SetJ1uFg
+  O T2Ti ERP Fenix é um treinamento fornecido pela T2Ti. Mais detalhes sobre o treinamento podem ser vistos no link: http://t2ti.com/erp3/.
+	<br />
+  <i>
+  [T2Ti ERP Fenix is a training provided by T2Ti. More details about the training can be seen at the link: http://t2ti.com/erp3/.]
+  </i>	
 	<br /><br />
-                    <img src="http://t2ti.com/images/capas/capa_erp2_infra_seguranca_base_250.jpg" />
+                    <img src="http://t2ti.com/images/erp/erp3-destaque.jpg" />
                     <br />              
 
 <hr />
